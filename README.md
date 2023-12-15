@@ -21,6 +21,4 @@ The wireless communication took some troubleshooting. I tried the 315Mhz RF Tran
 # Motion sensing
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/Motion-sensor.gif)
 
-Ultrasonic sensor with moving average, transmitter has a ready up button with 2 second delay
-
-
+For ease of use, I went with ultrasonic sensors for motion sensing. The transmitter has a ready-up button with a 2-second delay so that the stopwatch does not start by accident or start every time you walk in from the garage. The transmitter had issues with noise in the data so I went with a moving average to remove the noise. The moving average simply takes every 5 data points and averages them so that the sensor does not just trip on a single value.
