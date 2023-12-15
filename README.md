@@ -1,7 +1,7 @@
 # Stairway-Stopwatch
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/Demo-video.gif)
 Racing up and down the stairs used to be for kids, not anymore. As the holidays approach I have created a stopwatch so can turn racing up and down the stairs into a sport.
-![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/schematic-recievier.PNG)
+![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/schematic-receiver.PNG)
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/schematic-transmitter.PNG)
 
 # Displays
