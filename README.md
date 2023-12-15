@@ -1,6 +1,7 @@
 # Stairway-Stopwatch
 Racing up and down the stairs used to be for kids, not anymore. As the holidays approach I have created a stopwatch so can turn racing up and down the stairs into a sport.
 
+![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/Demo-video.gif)
 
 # Displays
 MAX7219 Dot Matrix Module for Arduino Microcontroller 4 in 1 Display
