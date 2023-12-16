@@ -1,7 +1,6 @@
 # Stairway-Stopwatch
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/Demo-video.gif)
-
-Racing up and down the stairs used to be for kids, not anymore. As the holidays approach I have created a stopwatch so can turn racing up and down the stairs into a sport. The 3D printed system is wireless and uses motion sensing for ease of use. This would be a great build for you and your roommates or even your kids. This creation has a YouTube video as well so those who are visual learners can be entertained (https://youtu.be/VbG-spBBNq0). Below are the schematics for both the receiver and transmitter:
+Racing up and down the stairs used to be just for kids, not anymore. As the holidays approach, I have created a stopwatch so you can turn racing up and down the stairs into a sport. The 3D printed system uses RF communication and motion sensing for ease of use. This would be a great build for you and your roommates or even your kids. This creation has a YouTube video as well so those who are visual learners can be entertained (https://youtu.be/VbG-spBBNq0). Below are the schematics for both the receiver and transmitter:
 
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/schematic-receiver.PNG)
 ![image](https://github.com/jareddilley/Stairway-Stopwatch/blob/main/Media/schematic-transmitter.PNG)
